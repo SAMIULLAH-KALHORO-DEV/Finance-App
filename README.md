@@ -1,6 +1,6 @@
-# design3
+# Finance App
 
-A new Flutter project.
+UI Design of Finance App 
 
 ## Getting Started
 
