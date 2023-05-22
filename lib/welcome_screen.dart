@@ -16,6 +16,7 @@ class WelcomeScreen extends StatelessWidget {
             children: [
               Image(height: 120, image: AssetImage("assets/manage.jpg")),
               Center(
+                // main text
                 child: Text(
                   textAlign: TextAlign.center,
                   "your\nfinances\nwisely",
